@@ -41,6 +41,9 @@ gem 'bootstrap-sass'
 #金手指修饰
 gem 'awesome_rails_console'
 
+#表格框架
+gem 'simple_form'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
